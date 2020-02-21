@@ -1,7 +1,7 @@
 Instructions
 
 Pull up the bookmark bar with ctrl+shift+B, right click, "Add page..."
-You should now see a dialogue reading "edit bookmark." Any name works, but most importantly, copy the code below into the url field, then click "Save"
+You should now see a dialogue reading "edit bookmark." Any name works, but most importantly, copy the code at the bottom of the page into the url field, then click "Save"
 Now, normally opening up APlus would open a pop-up window, but we want this to open in the main browser. Paste this into the url bar instead http://www.wba.aplusanywhere.com/als/?customer=ombudsmainoffice&plan=C
 From there you should open the bookmark everytime you begin a new test or whatever theyre called
 
